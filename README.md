@@ -88,7 +88,7 @@ Here is a complete sample of a POST call to the created API. In the image you ca
 
 ![](assets/postman.png)
 
-#### Bonus
+#### Bonus -> Unit Test
 As I am used to create unit tests in each controller that I make, I have added two very simple unit tests to check the functioning of the logic that is made inside the controller. For it they have been mockgen with the repository (file where the calls to the DB are made), in an automatic way with the following command.
 
 ```shell
